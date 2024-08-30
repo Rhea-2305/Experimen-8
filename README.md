@@ -21,3 +21,20 @@ Visual Studio Code
 
 ## Conclusion
 We learned how to take string input from user and display it.
+
+
+## Program 2
+## Aim
+Take two strings from user and concatenate those.
+
+## Software used
+Visual Studio Code
+
+## Theory
+String concatenation is the process of joining two or more strings together to form a single string. In C++, the + operator or the append() function can be used to concatenate strings. This operation is frequently used in constructing output messages, formatting data, or combining multiple pieces of text into a single string.
+
+## Output
+![image](https://github.com/user-attachments/assets/6cf81643-34c1-4ae8-bdb3-72bb099aee05)
+
+
+
