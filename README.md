@@ -31,10 +31,39 @@ Take two strings from user and concatenate those.
 Visual Studio Code
 
 ## Theory
-String concatenation is the process of joining two or more strings together to form a single string. In C++, the + operator or the append() function can be used to concatenate strings. This operation is frequently used in constructing output messages, formatting data, or combining multiple pieces of text into a single string.
+String concatenation is the process of joining two or more strings together to form a single string. In C++, the + operator or the append() function can be used to concatenate strings.
 
 ## Output
 ![image](https://github.com/user-attachments/assets/6cf81643-34c1-4ae8-bdb3-72bb099aee05)
 
+## Conclusion
+We learned how to concatenate a string.
 
+## Program 3
+## Aim
+Take a string from user and reverse it.
 
+## Software used
+Visual Studio Code
+
+## Theory
+Reversing a string involves rearranging the characters in the string so that they appear in the reverse order.
+
+## Output
+![image](https://github.com/user-attachments/assets/c82935af-31be-45f0-b114-9a9f0f087806)
+
+## Conclusion
+We learned how to reverse a string.
+
+Program 4
+Aim:
+Check whether the string entered by the user is palindrome
+
+Software used:
+Visual Studio Code
+
+Theory:
+A string is considered a palindrome if it reads the same backward as forward. It involves comparing characters from the beginning and end of the string and moving toward the center.
+
+## Output
+![image](https://github.com/user-attachments/assets/80113348-ed20-466c-8597-377c62238169)
