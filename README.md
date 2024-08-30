@@ -55,14 +55,14 @@ Reversing a string involves rearranging the characters in the string so that the
 ## Conclusion
 We learned how to reverse a string.
 
-Program 4
-Aim:
+## Program 4
+## Aim
 Check whether the string entered by the user is palindrome
 
-Software used:
+## Software used
 Visual Studio Code
 
-Theory:
+## Theory
 A string is considered a palindrome if it reads the same backward as forward. It involves comparing characters from the beginning and end of the string and moving toward the center.
 
 ## Output
