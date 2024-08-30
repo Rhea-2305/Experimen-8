@@ -67,3 +67,16 @@ A string is considered a palindrome if it reads the same backward as forward. It
 
 ## Output
 ![image](https://github.com/user-attachments/assets/80113348-ed20-466c-8597-377c62238169)
+
+## Program 5
+## Aim
+Count the number of occurrences of a letter in the given string
+
+## Software used
+Visual Studio Code
+
+## Output
+![image](https://github.com/user-attachments/assets/3b0e5564-30de-49a3-92e1-423020f62d47)
+
+## Conclusion
+We checked occurances of an element in a string.
